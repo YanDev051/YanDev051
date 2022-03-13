@@ -29,10 +29,10 @@
   <a href = "yanderfrancisco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yander-pohlmann-676986b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![snake gif](https://github.com/YanDev051/YanDev051/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
 <!---
-YanDev051/YanDev051 is a ✨ special ✨ repository because its `README.md` (this file) appears on you
+YanDev051/YanDev051 is a ✨ special ✨ repository because its `README.md` (this fil
 You can click the Preview link to take a look at your changes.
 
 --->
